@@ -1,6 +1,6 @@
-##This is a Gmal clone built with React, Redux, Firebase database, Firebase deployment, and Google Authentication.
+## This is a Gmal clone built with React, Redux, Firebase database, Firebase deployment, and Google Authentication.
 
-##Project can be seen at https://clone-84205.web.app
+## Project can be seen at https://clone-84205.web.app
 
 
 # Getting Started with Create React App and Redux
